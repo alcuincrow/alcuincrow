@@ -2,7 +2,12 @@ Hi 👋 My name is Casalcuin Crow
 ===============================
 Aspiring Web Developer
 ----------------------
-I've been learning to code over the last couple of years. I've found that I thoroughly enjoy working with Python. At present, I am finishing up my Udacity Programming Nanodegree.* 🌍  I'm based in Hixson, TN* 🖥️  See my portfolio at [Casalcuin Crow](http://casalcuincrow.com/)* ✉️  You can contact me at [cas@casalcuincrow.com](mailto:cas@casalcuincrow.com)* 🧠  I'm learning Python, Django.* ⚡  Amateur Twitch Streamer.
+I've been learning to code over the last couple of years. I've found that I thoroughly enjoy working with Python. At present, I am finishing up my Udacity Programming Nanodegree.
+* 🌍  I'm based in Hixson, TN
+* 🖥️  See my portfolio at [Casalcuin Crow](http://casalcuincrow.com/)
+* ✉️  You can contact me at [cas@casalcuincrow.com](mailto:cas@casalcuincrow.com)
+* 🧠  I'm learning Python, Django.
+* ⚡  Amateur Twitch Streamer.
 
 <a href="https://www.twitch.tv/notsafefromwork" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/alcuincrow?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=1c1917&label=TWITCH+STATUS" /></a>
