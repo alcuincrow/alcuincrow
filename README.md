@@ -2,11 +2,11 @@ Hi 👋 My name is Casalcuin Crow
 ===============================
 Aspiring Web Developer
 ----------------------
-I've been learning to code over the last couple of years. I've found that I thoroughly enjoy working with Python. At present, I just finished my Udacity Programming Nanodegree.
+I've been learning to code over the last couple of years. I've found that I thoroughly enjoy working with Python. At present, I am working on the Service Now CSA.
 * 🌍  I'm based in Hixson, TN
 * 🖥️  See my portfolio at [Casalcuin Crow](http://casalcuincrow.com/)
 * ✉️  You can contact me at [cas@casalcuincrow.com](mailto:cas@casalcuincrow.com)
-* 🧠  I'm learning Python, Django.
+* 🧠  I'm learning Python.
 * ⚡  Amateur Twitch Streamer.
 
 <a href="https://www.twitch.tv/notsafefromwork" target="_blank" rel="noreferrer"><img
