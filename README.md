@@ -6,7 +6,7 @@ I've been learning to code over the last couple of years. I've found that I thor
 * 🌍  I'm based in Hixson, TN
 * 🖥️  See my portfolio at [Casalcuin Crow](http://casalcuincrow.com/)
 * ✉️  You can contact me at [cas@casalcuincrow.com](mailto:cas@casalcuincrow.com)
-* 🧠  I'm learning Python.
+* 🧠  I'm learning Python, JS, Servicenow.
 * ⚡  Amateur Twitch Streamer.
 
 <a href="https://www.twitch.tv/notsafefromwork" target="_blank" rel="noreferrer"><img
