@@ -4,7 +4,7 @@ Aspiring engineer
 ----------------------
 In 2020 I leaned into learning to code, then got off track by going back to my old job. Hoping to make more progress in 2024!
 * 🌍  I'm based in Hixson, TN
-* 🖥️  See my portfolio at [Casalcuin Crow](http://casalcuincrow.com/)
+* 🖥️  See my github portfolio at [Casalcuin Crow](https://alcuincrow.github.io/docs/)
 * ✉️  You can contact me at [cas@casalcuincrow.com](mailto:cas@casalcuincrow.com)
 * 🧠  I'm currently taking a full-stack engineer course on Codecademy. 
 
