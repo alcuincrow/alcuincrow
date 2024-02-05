@@ -23,3 +23,5 @@ In 2020 I leaned into learning to code, then got off track by going back to my o
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/casalcuin"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+[![Alcuincrow's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alcuincrow&theme=github-compact)](https://github.com/alcuincrow/github-readme-activity-graph)
